@@ -34,6 +34,9 @@ This lecture details data types, tables, table relationships, and an introductio
 		- [w3schools.com](https://www.w3schools.com/sql/default.asp) - This resource provides an index of all SQL commands and basic definitions (with examples!).
 
 **Coding resources**
+
+[Contact info](https://github.com/mattdood)
+
 The resources below are a brief overview of a few that I've used. I have also posted a file listing different resources by category. 
 1. A [textbook on database design principles](https://open.umn.edu/opentextbooks/textbooks/database-design-2nd-edition) from open.umn.edu (a free textbook resource).
 2. Learning web development with Ruby on Rails. This is a good introduction to object oriented programming. I now use Django, a Python web framework. - [TheOdinProject](https://theodinproject.com/) also has: HTML, CSS, JavaSCript, GIT, databases, NodeJS, etc.
