@@ -32,3 +32,10 @@ This lecture details data types, tables, table relationships, and an introductio
     - [repl.it](https://repl.it/) - The sqlite3 support allows in-browser table creation and query practice. The base examples for "Querying against tables" are a great starting point.
 4. Reference:
 		- [w3schools.com](https://www.w3schools.com/sql/default.asp) - This resource provides an index of all SQL commands and basic definitions (with examples!).
+
+**Coding resources**
+The resources below are a brief overview of a few that I've used. I have also posted a file listing different resources by category. 
+1. A [textbook on database design principles](https://open.umn.edu/opentextbooks/textbooks/database-design-2nd-edition) from open.umn.edu (a free textbook resource).
+2. Learning web development with Ruby on Rails. This is a good introduction to object oriented programming. I now use Django, a Python web framework. - [TheOdinProject](https://theodinproject.com/) also has: HTML, CSS, JavaSCript, GIT, databases, NodeJS, etc.
+3. [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs) is a great resource for math and theory.
+4. [Project based learning](https://github.com/tuvtran/project-based-learning) is something that I referenced for some project ideas while getting my feet in the door with Python - they have everything you can think of.
